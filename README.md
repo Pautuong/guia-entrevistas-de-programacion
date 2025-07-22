@@ -30,6 +30,7 @@
    - [Visualizar algoritmos](#visualizar-algoritmos)
     - [Visualgo](#visualgo)
   - [Patrones de diseño](#patrones-de-diseño)
+  - [Diseño de sistemas](#diseño-de-sistemas)
   - [Bases de datos](#bases-de-datos)
     - [ORM's](#orms)
   - [Arquitectura de Software](#arquitectura-de-software)
@@ -48,6 +49,7 @@
     - [Workflows](#workflows)
   - [CI/CD](#cicd)
   - [Contenedores y Orquestación](#contenedores-y-orquestación)
+  - [IA para desarrolladores](#ia-para-desarrolladores)
   - [Authors](#authors)
 
 ## Buenas prácticas
@@ -303,6 +305,16 @@ En esta web podrás ver como funcionan de manera visual los siguientes algoritmo
     - Interpreter
     - Visitor
 
+## Diseño de sistemas
+  - [System Design Questions + Solutions DB](https://systemdesign.io)
+  - [System-design-interview](https://github.com/checkcheckzz/system-design-interview)
+  - [System Design Interview Questions and Answers [2025]](https://www.geeksforgeeks.org/system-design/top-10-system-design-interview-questions-and-answers)
+  - [A Beginner’s Guide to System Design](https://medium.com/@sentalkssane/a-beginners-guide-to-system-design-76d64689788b)
+  - [11 Most-Asked System Design Interview Questions (+ answers)](https://igotanoffer.com/blogs/tech/system-design-interviews)
+  - [Top 50 System Design Interview Questions for 2025](https://dev.to/somadevtoo/top-50-system-design-interview-questions-for-2024-5dbk)
+  - [System Design Interview Questions](https://www.interviewbit.com/system-design-interview-questions)
+  - [System Design CheatSheet for Interview](https://medium.com/javarevisited/system-design-cheatsheet-4607e716db5a)
+
 ## Bases de datos
 
 - [20 ejemplos de consultas SQL básicas para principiantes: Una visión completa](https://learnsql.es/blog/20-ejemplos-de-consultas-sql-basicas-para-principiantes-una-vision-completa/)
@@ -490,6 +502,17 @@ En esta web podrás ver como funcionan de manera visual los siguientes algoritmo
 - [¿Qué es un contenedor? by Microsoft](https://azure.microsoft.com/es-mx/resources/cloud-computing-dictionary/what-is-a-container)
 
 - [Contenedores y Orquestación (Recomendado)](https://medium.com/@villamorosjuan/contenedores-y-orquestación-transformando-la-gestión-de-aplicaciones-en-producción-0f2ebbd8aac5)
+
+## IA para desarrolladores
+  - [The Ultimate List of AI Concepts in AI for Absolute Beginners | And Let Me Know What You Want to Read About Next](https://medium.com/ai-for-absolute-beginners/the-ultimate-list-of-ai-concepts-in-ai-for-absolute-beginners-and-let-me-know-what-you-want-to-3edf24ce7c01)
+  - [25 Essential AI Concepts Every AI Developer Must Master](https://dev.to/devscriptor/25-essential-ai-concepts-every-ai-developer-must-master-4ddn)
+  - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
+  - [Best AI tools for developers to use in your next coding project](https://pieces.medium.com/best-ai-tools-for-developers-to-use-in-your-next-coding-project-794fce6bfa42)
+  - [What is MCP? A Beginner’s Guide to Smarter AI](https://medium.com/h7w/what-is-mcp-a-beginners-guide-to-smarter-ai-bdd996f8b02e)
+  - [Understanding Model Context Protocol (MCP): A Beginner’s Guide](https://medium.com/@sailakkshmiallada/understanding-model-context-protocol-mcp-a-beginners-guide-70060304742d)
+  - [MCP Introduction](https://modelcontextprotocol.io/introduction)
+  - [MCP for beginners by Microsoft](https://github.com/microsoft/mcp-for-beginners)
+  
 
 ## Authors
 

